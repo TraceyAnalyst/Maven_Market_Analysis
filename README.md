@@ -10,7 +10,9 @@ A Power BI dashboard delivering in-depth market insights through:
 **Visualization:** Interactive charts for strategic decision-making.
 
 # Maven-Market-Dashboard-Analysis
-Welcome to the Maven Market Analysis Dashboard, a powerful business intelligence tool designed to provide in-depth insights into market performance and trends. This dashboard, created with Power BI, is tailored for market analysts, business owners, and data enthusiasts looking to track key performance indicators (KPIs) and make data-driven decisions. Data Integration: Leveraged Power Query to integrate and refine data from diverse sources for dashboard use.
+Welcome to the Maven Market Analysis Dashboard, a powerful business intelligence tool designed to provide in-depth insights into market performance and trends. This dashboard, created with Power BI, is tailored for market analysts, business owners, and data enthusiasts looking to track key performance indicators (KPIs) and make data-driven decisions. 
+
+**Data Integration:** Leveraged Power Query to integrate and refine data from diverse sources for dashboard use.
 
 **Data Transformation and Preparation:** Employed M Code within Power Query for advanced data transformation and preparation.
 
